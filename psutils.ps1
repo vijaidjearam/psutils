@@ -48,7 +48,7 @@ switch ($options)
   }
 
 3 {
-        $service = "wuauserv"
+ 
         for ($a=0; $a -lt $computernames.Length; $a++) 
         {
           $total = $computernames.Length
