@@ -1,4 +1,4 @@
-﻿#test1
+﻿###test1
 
 $cred = Get-Credential -Credential administrateur
 $path = Read-Host -Prompt 'Type the path for IPs.txt'
